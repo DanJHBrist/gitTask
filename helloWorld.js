@@ -1,2 +1,4 @@
 // JavaScript source code
-console.log("Git is Awesome!");
+// create form for input and assign to const text...
+
+console.log(text);
